@@ -1,0 +1,13 @@
+# Python Environments & Caches
+privwatch_env/
+__pycache__/
+*.pyc
+
+# Massive Local Data Folders 
+data/frames/
+data/features/
+data/keypoints/
+data/raw_videos/
+
+notebooks/
+.DS_Store
